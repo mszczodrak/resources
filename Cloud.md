@@ -1,6 +1,6 @@
 | Link      | Description |
 | ----------- | ----------- |
 | [Precloud](https://github.com/tinystacks/precloud)      | Infrastructure code deployments |
-| Paragraph   | Text        |
+| [WorkOS](https://workos.com/)   | Enterprise App / Single Sign-On        |
 
 
