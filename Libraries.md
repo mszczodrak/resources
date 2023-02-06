@@ -1,5 +1,5 @@
 | Link      | Description |
 | ----------- | ----------- |
 | [TRL](https://github.com/lvwerra/trl)      | Train transformer language models with Proximal Policy Optimization (PPO) |
-| Paragraph   | Text        |
+| [WhisperCPP](https://github.com/ggerganov/whisper.cpp)   | Whisper implemented in CPP        |
 
